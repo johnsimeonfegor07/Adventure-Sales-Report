@@ -14,7 +14,7 @@ high-value customers.
 ---
 ## Key Insights From Dashboard💡
 -
-![Adventure Dashboard](adventureworks)
+![Adventure Dashboard]()
 ## Tools & Technology 🛠️
 - **PowerBi** Dashboard design and data visualisation
 - **Adventure Dataset**

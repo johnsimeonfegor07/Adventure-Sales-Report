@@ -2,7 +2,7 @@
 
 
 ## Project Overview 🔍
-This Project track KPI's **(Sales, Revenue, Profit, Returns)** , compares regional performance, analyses product level trends and forecasts and identifies
+This Project tracks KPI's **(Sales, Revenue, Profit, Returns)** , compares regional performance, analyses product level trends and forecasts and identifies
 high-value customers.
 
 ## Our mission is to use Power-Bi ## 
@@ -14,7 +14,7 @@ high-value customers.
 ---
 ## Key Insights From Dashboard💡
 -
-
+![Adventure Dashboard](adventureworks)
 ## Tools & Technology 🛠️
 - **PowerBi** Dashboard design and data visualisation
 - **Adventure Dataset**
